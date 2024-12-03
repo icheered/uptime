@@ -131,18 +131,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/thesis.icheered.com.ico",
     "slug": "master-thesis",
     "status": "up",
-    "uptime": "2.57%",
-    "uptimeDay": "2.57%",
-    "uptimeWeek": "2.57%",
-    "uptimeMonth": "2.57%",
-    "uptimeYear": "2.57%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 407,
     "timeDay": 407,
     "timeWeek": 407,
     "timeMonth": 407,
     "timeYear": 407,
-    "dailyMinutesDown": {
-      "2024-12-03": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
