@@ -18,7 +18,7 @@ sites:
   - name: Watermarker Online
     url: https://watermarker.icheered.nl
   - name: Master Thesis
-    url: https://thesis.icheered.nl
+    url: https://thesis.icheered.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
