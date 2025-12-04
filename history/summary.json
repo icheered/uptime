@@ -10,14 +10,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 570,
-    "timeDay": 563,
-    "timeWeek": 528,
-    "timeMonth": 514,
-    "timeYear": 570,
+    "time": 569,
+    "timeDay": 384,
+    "timeWeek": 504,
+    "timeMonth": 511,
+    "timeYear": 571,
     "dailyMinutesDown": {
-      "2025-09-10": 44,
-      "2024-12-04": 260
+      "2025-09-10": 44
     }
   },
   {
@@ -31,14 +30,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 560,
-    "timeDay": 537,
-    "timeWeek": 520,
-    "timeMonth": 527,
-    "timeYear": 560,
+    "time": 559,
+    "timeDay": 350,
+    "timeWeek": 477,
+    "timeMonth": 517,
+    "timeYear": 561,
     "dailyMinutesDown": {
-      "2025-09-10": 44,
-      "2024-12-04": 260
+      "2025-09-10": 44
     }
   },
   {
@@ -53,13 +51,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 495,
-    "timeDay": 550,
-    "timeWeek": 506,
-    "timeMonth": 493,
-    "timeYear": 495,
-    "dailyMinutesDown": {
-      "2024-12-04": 259
-    }
+    "timeDay": 359,
+    "timeWeek": 476,
+    "timeMonth": 490,
+    "timeYear": 496,
+    "dailyMinutesDown": {}
   },
   {
     "name": "MarjoleinderksenPhotography",
@@ -67,18 +63,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/marjoleinderksenphotography.com.ico",
     "slug": "marjoleinderksen-photography",
     "status": "down",
-    "uptime": "56.48%",
+    "uptime": "56.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "56.48%",
+    "uptimeYear": "56.26%",
     "time": 1824,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1824,
+    "timeYear": 1833,
     "dailyMinutesDown": {
-      "2025-12-03": 125,
+      "2025-12-04": 126,
+      "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
@@ -245,8 +242,7 @@
       "2024-12-08": 173,
       "2024-12-07": 29,
       "2024-12-06": 119,
-      "2024-12-05": 152,
-      "2024-12-04": 297
+      "2024-12-05": 152
     }
   },
   {
@@ -255,16 +251,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/luciedoet.nl.ico",
     "slug": "luciedoet",
     "status": "up",
-    "uptime": "93.35%",
+    "uptime": "93.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
-    "uptimeYear": "93.35%",
-    "time": 3147,
-    "timeDay": 982,
-    "timeWeek": 1028,
-    "timeMonth": 999,
-    "timeYear": 3147,
+    "uptimeYear": "93.36%",
+    "time": 3143,
+    "timeDay": 811,
+    "timeWeek": 965,
+    "timeMonth": 992,
+    "timeYear": 3154,
     "dailyMinutesDown": {
       "2025-11-11": 144,
       "2025-09-02": 1123,
@@ -312,11 +308,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.12%",
-    "time": 2678,
-    "timeDay": 376,
-    "timeWeek": 416,
-    "timeMonth": 421,
-    "timeYear": 2678,
+    "time": 2674,
+    "timeDay": 443,
+    "timeWeek": 426,
+    "timeMonth": 420,
+    "timeYear": 2682,
     "dailyMinutesDown": {
       "2025-09-25": 32,
       "2025-02-20": 62,
@@ -337,16 +333,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/watermarker.icheered.nl.ico",
     "slug": "watermarker-online",
     "status": "up",
-    "uptime": "91.60%",
+    "uptime": "91.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
-    "uptimeYear": "91.60%",
-    "time": 652,
-    "timeDay": 690,
-    "timeWeek": 640,
-    "timeMonth": 613,
-    "timeYear": 652,
+    "uptimeYear": "91.61%",
+    "time": 651,
+    "timeDay": 443,
+    "timeWeek": 605,
+    "timeMonth": 606,
+    "timeYear": 653,
     "dailyMinutesDown": {
       "2025-11-11": 144,
       "2025-09-02": 1124,
@@ -380,8 +376,7 @@
       "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
-      "2025-06-29": 875,
-      "2024-12-04": 258
+      "2025-06-29": 875
     }
   },
   {
@@ -390,16 +385,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/thesis.icheered.com.ico",
     "slug": "master-thesis",
     "status": "up",
-    "uptime": "58.26%",
+    "uptime": "58.37%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "67.33%",
-    "uptimeMonth": "16.87%",
-    "uptimeYear": "58.26%",
+    "uptimeWeek": "81.63%",
+    "uptimeMonth": "20.16%",
+    "uptimeYear": "58.31%",
     "time": 559,
-    "timeDay": 570,
-    "timeWeek": 519,
-    "timeMonth": 483,
-    "timeYear": 559,
+    "timeDay": 407,
+    "timeWeek": 501,
+    "timeMonth": 481,
+    "timeYear": 560,
     "dailyMinutesDown": {
       "2025-11-28": 538,
       "2025-11-27": 1440,
@@ -553,8 +548,7 @@
       "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
-      "2025-06-29": 875,
-      "2024-12-04": 258
+      "2025-06-29": 875
     }
   }
 ]
