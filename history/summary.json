@@ -109,7 +109,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/marjoleinderksenphotography.com.ico",
     "slug": "marjoleinderksen-photography",
     "status": "down",
-    "uptime": "34.45%",
+    "uptime": "34.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -120,7 +120,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-24": 207,
+      "2026-07-24": 695,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -551,9 +551,9 @@
     "url": "https://cravingsforgreen.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/cravingsforgreen.nl.ico",
     "slug": "cravings-for-green",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -563,7 +563,8 @@
     "timeMonth": 350,
     "timeYear": 410,
     "dailyMinutesDown": {
-      "2025-09-25": 32
+      "2025-09-25": 32,
+      "2026-07-24": 0
     }
   },
   {
@@ -628,11 +629,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/thesis.icheered.com.ico",
     "slug": "master-thesis",
     "status": "up",
-    "uptime": "57.17%",
+    "uptime": "57.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "48.75%",
-    "uptimeYear": "36.70%",
+    "uptimeMonth": "49.87%",
+    "uptimeYear": "36.79%",
     "time": 480,
     "timeDay": 419,
     "timeWeek": 443,
