@@ -4,11 +4,11 @@
     "url": "https://www.icheered.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.icheered.com.ico",
     "slug": "i-cheered-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "98.10%",
     "time": 493,
     "timeDay": 509,
@@ -31,7 +31,8 @@
       "2026-05-20": 101,
       "2026-05-24": 109,
       "2026-05-29": 219,
-      "2026-06-07": 194
+      "2026-06-07": 194,
+      "2026-08-25": 29
     }
   },
   {
@@ -39,11 +40,11 @@
     "url": "https://www.icheered.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.icheered.nl.ico",
     "slug": "i-cheered-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "98.10%",
     "time": 483,
     "timeDay": 487,
@@ -66,7 +67,8 @@
       "2026-05-20": 96,
       "2026-05-24": 104,
       "2026-05-29": 214,
-      "2026-06-07": 189
+      "2026-06-07": 189,
+      "2026-08-25": 24
     }
   },
   {
@@ -74,11 +76,11 @@
     "url": "https://evaschotanus.com/",
     "icon": "https://icons.duckduckgo.com/ip3/evaschotanus.com.ico",
     "slug": "eva-schotanus-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "98.11%",
     "time": 510,
     "timeDay": 514,
@@ -100,7 +102,8 @@
       "2026-05-20": 91,
       "2026-05-24": 99,
       "2026-05-29": 209,
-      "2026-06-07": 185
+      "2026-06-07": 185,
+      "2026-08-25": 20
     }
   },
   {
@@ -109,7 +112,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/marjoleinderksenphotography.com.ico",
     "slug": "marjoleinderksen-photography",
     "status": "down",
-    "uptime": "32.71%",
+    "uptime": "32.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -120,7 +123,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-25": 100,
+      "2026-08-25": 997,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
@@ -492,12 +495,12 @@
     "url": "https://luciedoet.nl/",
     "icon": "https://icons.duckduckgo.com/ip3/luciedoet.nl.ico",
     "slug": "luciedoet",
-    "status": "up",
-    "uptime": "93.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "92.63%",
+    "status": "down",
+    "uptime": "93.34%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "92.80%",
     "time": 1105,
     "timeDay": 1212,
     "timeWeek": 850,
@@ -541,7 +544,8 @@
       "2026-05-21": 1440,
       "2026-05-20": 81,
       "2026-05-29": 204,
-      "2026-06-07": 109
+      "2026-06-07": 109,
+      "2026-08-25": 10
     }
   },
   {
@@ -571,13 +575,13 @@
     "url": "https://watermarker.icheered.nl",
     "icon": "https://icons.duckduckgo.com/ip3/watermarker.icheered.nl.ico",
     "slug": "watermarker-online",
-    "status": "up",
+    "status": "down",
     "uptime": "92.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "92.71%",
-    "time": 583,
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "92.88%",
+    "time": 584,
     "timeDay": 666,
     "timeWeek": 505,
     "timeMonth": 530,
@@ -617,7 +621,8 @@
       "2026-05-21": 1440,
       "2026-05-20": 77,
       "2026-05-29": 200,
-      "2026-06-07": 104
+      "2026-06-07": 104,
+      "2026-08-25": 5
     }
   },
   {
@@ -625,12 +630,12 @@
     "url": "https://thesis.icheered.com",
     "icon": "https://icons.duckduckgo.com/ip3/thesis.icheered.com.ico",
     "slug": "master-thesis",
-    "status": "up",
-    "uptime": "59.34%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "59.38%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "45.44%",
+    "uptimeYear": "45.62%",
     "time": 477,
     "timeDay": 557,
     "timeWeek": 418,
@@ -839,7 +844,8 @@
       "2026-04-02": 1440,
       "2026-04-01": 1440,
       "2026-03-31": 1440,
-      "2026-03-30": 498
+      "2026-03-30": 498,
+      "2026-08-25": 0
     }
   }
 ]
